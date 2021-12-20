@@ -1,0 +1,15 @@
+C:\Users\vicen\source\repos\DBEntityFrameworkDB1rs\DB\bin\Debug\net5.0\DB.deps.json
+C:\Users\vicen\source\repos\DBEntityFrameworkDB1rs\DB\bin\Debug\net5.0\DB.runtimeconfig.json
+C:\Users\vicen\source\repos\DBEntityFrameworkDB1rs\DB\bin\Debug\net5.0\DB.runtimeconfig.dev.json
+C:\Users\vicen\source\repos\DBEntityFrameworkDB1rs\DB\bin\Debug\net5.0\DB.dll
+C:\Users\vicen\source\repos\DBEntityFrameworkDB1rs\DB\bin\Debug\net5.0\ref\DB.dll
+C:\Users\vicen\source\repos\DBEntityFrameworkDB1rs\DB\bin\Debug\net5.0\DB.pdb
+C:\Users\vicen\source\repos\DBEntityFrameworkDB1rs\DB\obj\Debug\net5.0\DB.csproj.AssemblyReference.cache
+C:\Users\vicen\source\repos\DBEntityFrameworkDB1rs\DB\obj\Debug\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\source\repos\DBEntityFrameworkDB1rs\DB\obj\Debug\net5.0\DB.AssemblyInfoInputs.cache
+C:\Users\vicen\source\repos\DBEntityFrameworkDB1rs\DB\obj\Debug\net5.0\DB.AssemblyInfo.cs
+C:\Users\vicen\source\repos\DBEntityFrameworkDB1rs\DB\obj\Debug\net5.0\DB.csproj.CoreCompileInputs.cache
+C:\Users\vicen\source\repos\DBEntityFrameworkDB1rs\DB\obj\Debug\net5.0\DB.dll
+C:\Users\vicen\source\repos\DBEntityFrameworkDB1rs\DB\obj\Debug\net5.0\ref\DB.dll
+C:\Users\vicen\source\repos\DBEntityFrameworkDB1rs\DB\obj\Debug\net5.0\DB.pdb
+C:\Users\vicen\source\repos\DBEntityFrameworkDB1rs\DB\obj\Debug\net5.0\DB.genruntimeconfig.cache
